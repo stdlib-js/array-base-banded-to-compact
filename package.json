@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-banded-to-compact",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert a two-dimensional banded nested array to compact banded storage.",
   "license": "Apache-2.0",
   "author": {
