@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import toCompact from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-banded-to-compact@esm/index.mjs';
+import toCompact from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-banded-to-compact@v0.1.1-esm/index.mjs';
 ```
 
 #### toCompact( arr, ku, kl, colexicographic )
@@ -101,7 +101,7 @@ The function accepts the following arguments:
 <body>
 <script type="module">
 
-import toCompact from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-banded-to-compact@esm/index.mjs';
+import toCompact from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-banded-to-compact@v0.1.1-esm/index.mjs';
 
 // Define a banded matrix:
 var A = [
