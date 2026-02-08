@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import toCompact from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-banded-to-compact@deno/mod.js';
+import toCompact from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-banded-to-compact@v0.1.1-deno/mod.js';
 ```
 
 #### toCompact( arr, ku, kl, colexicographic )
@@ -96,7 +96,7 @@ The function accepts the following arguments:
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import toCompact from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-banded-to-compact@deno/mod.js';
+import toCompact from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-banded-to-compact@v0.1.1-deno/mod.js';
 
 // Define a banded matrix:
 var A = [
